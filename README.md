@@ -10,6 +10,6 @@ Repository to store our QC-FLIQ preparations
     - Brainstorm potential examples or scenarios for participants.  
     - Create a few sample solutions to guide participants.
 
-- [ ] **Resources List**  
+- [X] **Resources List**  
     - Compile relevant documentation, tutorials, and references. Note: The portion for accessing Qiskit is done by Penn already.  
     - Include links to tools or libraries needed for the challenge.
