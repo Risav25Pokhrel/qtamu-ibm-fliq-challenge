@@ -1,4 +1,4 @@
-###pqc-ibm-fliq-challenge
+# pqc-ibm-fliq-challenge
 Instructions for IBM Quantum's education challenge in collaboration with QuantA&M for the 2025 QC-FLIQ Hackathon.
 
 
