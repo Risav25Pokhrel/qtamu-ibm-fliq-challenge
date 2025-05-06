@@ -19,7 +19,7 @@ Select one of the following:
 Your submission should be a well-documented Jupyter Notebook (.ipynb) containing all your code, explanations, and results.
 
 ## Submission
-[Submission Instructions]()
+[Submission Instructions](Instructions.ipynb)
 
 
 ## Resources
