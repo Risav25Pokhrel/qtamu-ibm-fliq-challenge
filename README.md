@@ -5,12 +5,19 @@ Instructions for IBM Quantum's education challenge in collaboration with QuantA&
 - [Challenge Prompt](#challenge-Prompt)
 - [Submission](#Submission)
 - [Resources](#Resources)
+- [Qiskit Set up](#Qiskit-Set-up)
 
 ## Challenge Prompt
+
+ 1) Build and test a quantum random number generator using a Hadamard gate
 
 ## Submission
 
 ## Resources
+
+
+## Qiskit Set up
+Set up repo: {insert link to tutorial}
 
 
 
