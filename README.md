@@ -3,8 +3,8 @@ Instructions for IBM Quantum's education challenge in collaboration with QuantA&
 
 ## Table of Contents
 
--[Challenge prompt](#challenge-Prompt)
--[Submission](#Submission)
+-[Challenge prompt](#challenge-Prompt)\\
+-[Submission](#Submission)\\
 -[Resources](#Resources)
 
 ## Challenge Prompt
