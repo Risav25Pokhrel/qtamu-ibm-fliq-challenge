@@ -12,6 +12,9 @@ Select one of the following:
 1) Build and test a quantum random number generator using Hadamard gates.
 2) Simulate a quantum double-slit experiment using quantum circuits.
 3) Create all four Bell states using basic quantum gates, and verify them with measurement statistics.
+4) Design a quantum dice (6-sided) using multiple qubits and validate fairness using Born’s rule.
+5) Modify the modular exponentiation circuit to factor a different semi-prime.
+
 
 ## Submission
 
