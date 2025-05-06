@@ -8,8 +8,10 @@ Instructions for IBM Quantum's education challenge in collaboration with QuantA&
 - [Qiskit Set up](#Qiskit-Set-up)
 
 ## Challenge Prompt
-
- 1) Build and test a quantum random number generator using a Hadamard gate
+Select one of the following:
+1) Build and test a quantum random number generator using a Hadamard gate
+2) Simulate a quantum double-slit experiment using quantum circuits.
+3) Create all four Bell states using basic gates and verify them with measurement statistics.
 
 ## Submission
 
