@@ -15,8 +15,12 @@ Select one of the following:
 4) Design a quantum dice (6-sided) using multiple qubits and validate fairness using Born’s rule.
 5) Modify the modular exponentiation circuit to factor a different semi-prime.
 
+**Your submission:** 
+Your submission should be a well-documented Jupyter Notebook (.ipynb) containing all your code, explanations, and results.
 
 ## Submission
+[Submission Instructions]()
+
 
 ## Resources
 
