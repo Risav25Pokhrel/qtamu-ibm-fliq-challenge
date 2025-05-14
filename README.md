@@ -26,7 +26,7 @@ The goal of this hackathon challenge is to create an educational, beginner-frien
 + Connect mathematical concepts to quantum circuit construction.
 + Anticipate and address common points of confusion.
 
-## 2. Quiskit Implementation
+## 2. Qiskit Implementation
 
 + All code must run on:
   + Local Qiskit installations (Windows/Mac)
