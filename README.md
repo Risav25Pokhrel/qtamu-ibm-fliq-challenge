@@ -31,7 +31,9 @@ Your submission should be a well-documented Jupyter Notebook (.ipynb) containing
 
 
 ## Qiskit Set up
-Set up repo: {insert link to tutorial}
+Qiskit installation and IBMQ access: [Installation](Installation.ipynb)
+
+Notebook provided by the Penn Quantum Computing Club
 
 
 
