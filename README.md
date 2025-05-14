@@ -66,7 +66,7 @@ Select one of the following:
 ## Resources
 + [Qiskit Documentation](https://docs.quantum.ibm.com/guides/install-qiskit)
 + [IBM Quantum Challenge Example Notebooks](https://github.com/qiskit-community/ibm-quantum-challenge-2024/tree/main/content/lab_3)
-
++ [Qiskit Fall Fest](https://dorahacks.io/hackathon/564/detail)
 
 ## Qiskit Set up
 Qiskit installation and IBMQ access: [Installation](Installation.ipynb)
