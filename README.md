@@ -11,14 +11,12 @@ The goal of this hackathon challenge is to create an educational, beginner-frien
 - [Resources](#Resources)
 - [Qiskit Set-up](#Qiskit-Set-up)
 
-## Challenge Prompt
-Select one of the following:
+## Challenge Examples
 
 1) Build and test a quantum random number generator using Hadamard gates.
 2) Simulate a quantum double-slit experiment using quantum circuits.
 3) Create all four Bell states using basic quantum gates, and verify them with measurement statistics.
 4) Design a quantum dice (6-sided) using multiple qubits and validate fairness using Born’s rule.
-5) Modify the modular exponentiation circuit to factor a different semi-prime.
 
 ## Challenge Structure
 
@@ -32,6 +30,7 @@ Select one of the following:
 
 + All code must run on:
   + Local Qiskit installations (Windows/Mac)
+  + Ideally, use Qiskit 2.0+
   + qBraid Lab `(lab.qbraid.com)`
 + At least one exercise must run on real IBM Qiskit hardware.
 + Include code for:
