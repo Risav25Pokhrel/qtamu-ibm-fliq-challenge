@@ -18,6 +18,8 @@ The goal of this hackathon challenge is to create an educational, beginner-frien
 3) Create all four Bell states using basic quantum gates, and verify them with measurement statistics.
 4) Design a quantum dice (6-sided) using multiple qubits and validate fairness using Born’s rule.
 
+Code samples/starter code can be found [here](code-samples.ipynb)
+
 ## Challenge Structure
 
 ## 1. Step-by-Step Tutorial
@@ -67,6 +69,7 @@ Judging is anticipated to be complete on May 21.
 + [Qiskit Documentation](https://docs.quantum.ibm.com/guides/install-qiskit)
 + [IBM Quantum Challenge Example Notebooks](https://github.com/qiskit-community/ibm-quantum-challenge-2024/tree/main/content/lab_3)
 + [Qiskit Fall Fest](https://dorahacks.io/hackathon/564/detail)
++ [Code Samples](code-samples.ipynb)
 
 ## Qiskit Set up
 Qiskit installation and IBMQ access: [Installation](Installation.ipynb)
