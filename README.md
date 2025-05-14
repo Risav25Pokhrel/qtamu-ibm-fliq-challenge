@@ -76,6 +76,6 @@ Qiskit installation and IBMQ access: [Installation](Installation.ipynb)
 
 Installation Notebook provided by the Penn Quantum Computing Club
 
-** Note:** This challenge is designed for educational purposes. Focus on clear, direct teaching, avoiding marketing language or basic code tutorials. The aim is to help participants learn about and implement quantum experiments on real hardware, building both confidence and curiosity in quantum computing during the International Year of Quantum, 2025! 
+**Note:** This challenge is designed for educational purposes. Focus on clear, direct teaching, avoiding marketing language or basic code tutorials. The aim is to help participants learn about and implement quantum experiments on real hardware, building both confidence and curiosity in quantum computing during the International Year of Quantum, 2025! 
 
 Repository made by **Samuel Bieberich and Samuel Molero, QuantA&M (Texas A&M Quantum Computing Club)**
