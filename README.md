@@ -1,4 +1,4 @@
-![logo](banner.png)
+![logo](images/banner.png)
 
 # Quantum Coalition Future Leaders in Quantum (QC-FLIQ) Virtual Hackathon
 Instructions for IBM Quantum's education challenge in collaboration with QuantA&M for the 2025 QC-FLIQ Hackathon.
