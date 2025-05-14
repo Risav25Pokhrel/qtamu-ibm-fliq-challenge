@@ -3,6 +3,8 @@
 # Quantum Coalition Future Leaders in Quantum (QC-FLIQ) Virtual Hackathon
 Instructions for IBM Quantum's education challenge in collaboration with QuantA&M for the 2025 QC-FLIQ Hackathon.
 
+The goal of this hackathon challenge is to create an educational, beginner-friendly tutorial that guides participants through implementing a famous quantum experiment on real IBM quantum hardware using Qiskit. The challenge is designed to be approachable for high school and undergraduate students, emphasizing both conceptual understanding and practical skills.
+
 ## Table of Contents
 - [Challenge Prompt](#challenge-Prompt)
 - [Submission](#Submission)
