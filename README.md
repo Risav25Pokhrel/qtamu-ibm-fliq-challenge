@@ -1,4 +1,23 @@
 ![logo](images/banner.png)
+---
+## Requirements
+
+* Python 3.x
+* Qiskit
+* Matplotlib
+* IBMQ Account setup (for running on real hardware)
+
+```bash
+pip install qiskit matplotlib qiskit_aer qiskit_runtime
+```
+
+---
+
+## Files
+
+* `double_slit_experiment.ipynb`: Main Jupyter notebook containing code, visualizations, and results.
+
+---
 
 # Quantum Coalition Future Leaders in Quantum (QC-FLIQ) Virtual Hackathon
 
@@ -23,7 +42,7 @@ This project simulates **Young’s Double Slit Experiment** through  **quantum c
 
 ---
 
-## What We Did
+## What I Did
 
 1. **Understanding How Double Slit work**:
 
@@ -44,25 +63,6 @@ This project simulates **Young’s Double Slit Experiment** through  **quantum c
 
    * Ran the quantum circuit on Qiskit’s **AER simulator** to validate the interference pattern.
    * Extended the implementation to **Real IBM quantum hardware**
-
----
-
-## Requirements
-
-* Python 3.x
-* Qiskit
-* Matplotlib
-* IBMQ Account setup (for running on real hardware)
-
-```bash
-pip install qiskit matplotlib qiskit_aer qiskit_runtime
-```
-
----
-
-## Files
-
-* `double_slit_experiment.ipynb`: Main Jupyter notebook containing code, visualizations, and results.
 
 ---
 
