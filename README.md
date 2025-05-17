@@ -1,81 +1,68 @@
 ![logo](images/banner.png)
 
 # Quantum Coalition Future Leaders in Quantum (QC-FLIQ) Virtual Hackathon
-Instructions for IBM Quantum's education challenge in collaboration with QuantA&M for the 2025 QC-FLIQ Hackathon.
 
-The goal of this hackathon challenge is to create an educational, beginner-friendly tutorial that guides participants through implementing a famous quantum experiment on real IBM quantum hardware using Qiskit. The challenge is designed to be approachable for high school students, emphasizing both conceptual understanding and practical skills.
 
-## Table of Contents
-- [Challenge Prompt](#challenge-Prompt)
-- [Submission](#Submission)
-- [Resources](#Resources)
-- [Qiskit Set-up](#Qiskit-Set-up)
+# Young's Double Slit Experiment
 
-## Challenge Examples
+## Overview
 
-1) Build and test a quantum random number generator using Hadamard gates.
-2) Simulate a quantum double-slit experiment using quantum circuits.
-3) Create all four Bell states using basic quantum gates, and verify them with measurement statistics.
-4) Design a quantum dice (6-sided) using multiple qubits and validate fairness using Born’s rule.
+This project simulates **Young’s Double Slit Experiment** through  **quantum computing** using **Qiskit**. The notebook walks through the Young's Double slit concept, formulates a quantum equivalent, and demonstrates its implementation on both simulators and real quantum hardware.
 
-Code samples/starter code can be found [here](code-samples.ipynb)
+---
 
-## Challenge Structure
+## Objectives
 
-## 1. Step-by-Step Tutorial
+* Understand the **Young's double slit experiment** and its routcomes.
+* Model the **quantum equivalent** of the experiment using quantum circuits.
+* Simulate the quantum circuit using:
 
-+ Break down the chosen experiment into intuitive steps.
-+ Connect mathematical concepts to quantum circuit construction.
-+ Anticipate and address common points of confusion.
+  * **Qiskit AER simulator**
+  * **Real IBM quantum hardware**
+* Explore the potential quantum setup for **detecting which slit a particle passes through**.
 
-## 2. Qiskit Implementation
+---
 
-+ All code must run on:
-  + Local Qiskit installations (Windows/Mac)
-  + Ideally, use Qiskit 2.0+
-  + qBraid Lab `(lab.qbraid.com)`
-+ At least one exercise must run on real IBM Qiskit hardware.
-+ Include code for:
-  + Submitting jobs and saving Job IDs
-  + Retrieving and visualizing results
-  + Estimating runtime (preferably <5 minutes per job)
+## What We Did
 
-## 3. Testing and Grading
+1. **Understanding How Double Slit work**:
 
-+ Provide a separate `.py` script for local correctness checks before hardware submission.
+   * Reviewed the double slit experiment and wave interference principles.
+   * Implemented a simple classical simulation of interference patterns.
 
-## 4. Visualization
+2. **Quantum Circuit Modeling**:
 
-+ Use plots, circuit diagrams, and other visual tools to clarify results and concepts.
+   * Developed a quantum circuit that mimics the double slit setup using Hadamard and phase gates.
+   * Incorporated mathematical analogs and quantum state evolution to mirror the classical phenomena.
 
-## 5. Exercises
+3. **Equivalent Circuit Formulation**:
 
-+ Include 1–3 smaller exercises that build toward the final hardware experiment.
-+ Final exercise should be tuneable (e.g., number of qubits, measurement basis).
-+ At least one exercise should require thoughtful reasoning, not just code completion.
+   * Mapped the quantum operations to equivalent quantum states.
+   * Highlighted how quantum superposition and interference arise in the circuit.
 
-## Submission
+4. **Simulation**:
 
-+ Post your Jupyter Notebook on GitHub.
-+ Include all explanations, code, and results in the notebook (see [Sample.ipynb](Sample.ipynb) for more info).
-+ Add any additional files (e.g., testing scripts) to the same repository.
-+ Ensure the notebook renders correctly on GitHub and is easy to follow.
-+ Provide a README with brief instructions for running the notebook locally.
-+ Submit your GitHub repo link via the official submission form.
+   * Ran the quantum circuit on Qiskit’s **AER simulator** to validate the interference pattern.
+   * Extended the implementation to **Real IBM quantum hardware**
 
-Judging is anticipated to be complete on May 21.
+---
 
-## Resources
-+ [Qiskit Documentation](https://docs.quantum.ibm.com/guides/install-qiskit)
-+ [IBM Quantum Challenge Example Notebooks](https://github.com/qiskit-community/ibm-quantum-challenge-2024/tree/main/content/lab_3)
-+ [Qiskit Fall Fest](https://dorahacks.io/hackathon/564/detail)
-+ [Code Samples](code-samples.ipynb)
+## Requirements
 
-## Qiskit Set up
-Qiskit installation and IBMQ access: [Installation](Installation.ipynb)
+* Python 3.x
+* Qiskit
+* Matplotlib
+* IBMQ Account setup (for running on real hardware)
 
-Installation Notebook provided by the Penn Quantum Computing Club
+```bash
+pip install qiskit matplotlib qiskit_aer qiskit_runtime
+```
 
-**Note:** This challenge is designed for educational purposes. Focus on clear, direct teaching, avoiding marketing language or basic code tutorials. The aim is to help participants learn about and implement quantum experiments on real hardware, building both confidence and curiosity in quantum computing during the International Year of Quantum, 2025! 
+---
 
-Repository made by **Samuel Bieberich and Samuel Molero, QuantA&M (Texas A&M Quantum Computing Club)**
+## Files
+
+* `double_slit_experiment.ipynb`: Main Jupyter notebook containing code, visualizations, and results.
+
+---
+
